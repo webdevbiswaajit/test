@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainMenu {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    align-items: center;
+    width: 66%;
+}
+
+.nav_area {
+    display: flex;
+    background-color: #000;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu ul li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.menu ul li a {
+    color: #fff;
+    font-size: 18px;
+}
